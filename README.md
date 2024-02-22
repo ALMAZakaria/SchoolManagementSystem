@@ -1,4 +1,4 @@
-# SchoolManagementSystem
+   ALMAZakaria #SchoolManagementSystem PFM
 In this project. I used Laravel for backend, Bootstrap for frontend, and CSS for styling in the School Management System project. PHPMyAdmin eased MySQL database management. The result is a user-friendly, visually appealing system with efficient functionality. Feel free to reuse my Crude School Management System. A mention, would be appreciated.
 
 <br>
@@ -41,7 +41,7 @@ After Install Php:
 
 Go to the project directory
 
-cd ALMAZakariaSchoolManagementPFM
+cd SchoolManagementSystem
 
 Step 3 : Install the dependencies:
 
