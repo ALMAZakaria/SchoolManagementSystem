@@ -41,7 +41,7 @@ After Install Php:
 
 Go to the project directory
 
-cd SchoolManagementSystem
+cd SchoolManagementSystem ( If you see any commande errores just go to the next commande untill 12 then follow the locale link. Please contact me on LinkedIn or Email if you need anyhelp)
 
 Step 3 : Install the dependencies:
 
