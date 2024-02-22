@@ -1,0 +1,22 @@
+-Install:
+	1-Vs.code
+	2-xammp
+	3-Php 
+		https://getcomposer.org/download/
+		*Install it in xammp/php 
+			
+**https://www.youtube.com/watch?v=2qgS_MCvDfk
+
+	4-Laravel
+After Install Php:
+	*go to xammp/php/php.init
+	* Click Controle+f --> search for ;extension=zip --> Change it to extension=zip "; Deleted"
+	* Go to vs code and click on terminal--> new Terminal past the following commande:
+		** composer global require laravel/installer
+	*the Create a new project with the following commande :
+ 
+		**	: composer global require laravel/installer
+		** 	: laravel new example-app
+		**	: cd example-app
+		**	: php artisan serve
+
