@@ -13,6 +13,7 @@ To handle the backend database administration with ease, I implemented PHPMyAdmi
 <br>
 <br>
 
+
  ![image](https://github.com/ALMAZakaria/SchoolManagementSystem/assets/76885545/b7a65e34-ea54-4a9e-9335-35a19a1c61a5)
 
 
