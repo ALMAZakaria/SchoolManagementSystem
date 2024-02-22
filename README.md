@@ -14,7 +14,7 @@ To handle the backend database administration with ease, I implemented PHPMyAdmi
 <br>
 
 
- ![image](https://github.com/ALMAZakaria/SchoolManagementSystem/assets/76885545/b7a65e34-ea54-4a9e-9335-35a19a1c61a5)
+![image](https://github.com/ALMAZakaria/ALMAZakariaSchoolManagementPFM/assets/76885545/4ab44e39-512e-4243-b10f-ac09684fbf12)
 
 
 
