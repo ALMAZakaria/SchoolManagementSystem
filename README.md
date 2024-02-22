@@ -97,7 +97,7 @@ Real-time event broadcasting.
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 
--the Create a new project with the following commande (open vscode go to terminale->new terminale):
+-To Create a new project with the following commande (open vscode go to terminale->new terminale):
  
 		  composer global require laravel/installer
 		  laravel new example-app
